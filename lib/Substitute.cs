@@ -1,3 +1,5 @@
+//first attempt at http://community.topcoder.com/stat?c=problem_statement&pm=1333
+
 using System;
 using System.Collections.Generic;
 using System.Text;
